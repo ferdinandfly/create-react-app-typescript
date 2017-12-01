@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
     "changelog": "lerna-changelog",
@@ -33,5 +32,25 @@
     "yarn.lock": [
       "git rm --cached"
     ]
-  }
+  },
+  "name": "emy-create-app-typescript",
+  "description": "Create React apps (with Typescript) with no build configuration.",
+  "version": "1.0.0",
+  "main": "bootstrap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinandfly/create-react-app-typescript.git"
+  },
+  "keywords": [
+    "create",
+    "react",
+    "typescript",
+    "app"
+  ],
+  "author": "ferdinandfly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdinandfly/create-react-app-typescript/issues"
+  },
+  "homepage": "https://github.com/ferdinandfly/create-react-app-typescript#readme"
 }
