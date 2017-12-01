@@ -35,7 +35,7 @@
   },
   "name": "emy-create-app-typescript",
   "description": "Create React apps (with Typescript) with no build configuration.",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "main": "bootstrap.js",
   "repository": {
     "type": "git",
